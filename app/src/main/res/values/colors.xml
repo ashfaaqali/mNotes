@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="NoteColor1">#FFFFFFFF</color>
+    <color name="NoteColor2">#FFAFAF</color>
+    <color name="NoteColor3">#8AA2F8</color>
+    <color name="NoteColor4">#CD9494</color>
+    <color name="NoteColor5">#A49767</color>
+    <color name="NoteColor6">#83D9E6</color>
+    <color name="NoteColor7">#D2B690</color>
+    <color name="NoteColor8">#92FFCF</color>
+    <color name="NoteColor9">#E4A7FF</color>
+
+
 </resources>
